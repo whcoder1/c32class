@@ -11,8 +11,8 @@ class Bird extends BaseClass {
     //this.body.position.y = mouseY;
 
     super.display();
-console.log(this.body.position.x)
-console.log(this.body.velocity.x)
+//console.log(this.body.position.x)
+//console.log(this.body.velocity.x)
 
 
 
